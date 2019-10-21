@@ -4,17 +4,17 @@
 NetModular
 </h1>
 
-NetModular is a modular quickly develop solution for .NET Standard.
+NetModular is a modular quickly develop solution for .Net Core 3.0+.
 
 ## Develop Environment
 
 > IDE
 >
-> > [Visual Studio 2017+](https://visualstudio.microsoft.com/zh-hans/downloads/)、[Visual Studio Code](https://code.visualstudio.com/)
+> > [Visual Studio 2019+](https://visualstudio.microsoft.com/zh-hans/downloads/)、[Visual Studio Code](https://code.visualstudio.com/)
 
 > Back-End
 >
-> > [.Net Core 2.2+](https://dotnet.microsoft.com/download)、[Dapper](https://github.com/StackExchange/Dapper)、[Serilog](https://serilog.net/)、[AutoMapper](https://automapper.org/)、[FluentValidation](https://fluentvalidation.net)、[Swagger](https://github.com/domaindrivendev/Swashbuckle.AspNetCore)
+> > [.Net Core 3.0+](https://dotnet.microsoft.com/download)、[Dapper](https://github.com/StackExchange/Dapper)、[Serilog](https://serilog.net/)、[AutoMapper](https://automapper.org/)、[FluentValidation](https://fluentvalidation.net)、[Swagger](https://github.com/domaindrivendev/Swashbuckle.AspNetCore)
 
 > Front-End
 >
